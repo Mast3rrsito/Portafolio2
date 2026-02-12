@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(
+        to bottom left,
+        #000000 40%,
+        #1ed760
+    );
+    background-attachment: fixed;
+}
